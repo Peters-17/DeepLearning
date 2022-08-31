@@ -1,0 +1,1 @@
+scp data.tar.gz <userid>@best-linux.cs.wisc.edu:˜
