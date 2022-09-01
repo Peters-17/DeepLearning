@@ -1,4 +1,5 @@
 # DeepLearning
+Score 100/100
 # Assignment Goals
 • Implement and train a convolutional neural network (CNN), specifically LeNet
 • Understand and count the number of trainable parameters in CNN
