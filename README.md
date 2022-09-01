@@ -15,6 +15,7 @@ dataset – MiniPlaces, again using PyTorch.
 # Dataset
 MiniPlaces is a scene recognition dataset developed by MIT. This dataset has 120K images from 100 scene categories. The categories are mutually exclusive. The dataset is split into 100K images for training, 10K images for
 validation, and 10K for testing.
+![image](https://user-images.githubusercontent.com/85666623/187816843-65826e80-7bfc-4734-a2a9-9bef8b291d0d.png)
 
 # Part I Creating LeNet-5
 Background: LeNet was one of the first CNNs and its success was foundational for further research into deep
